@@ -1,7 +1,7 @@
 'use strict';
 
 var config = require('../config');
-var passport = require('passoprt');
+var passport = require('passport');
 var LocalStrategy = require('passport-local').Strategy;
 var TwitterStrategy = require('passport-twitter').Strategy;
 var User = require('../models/user');
