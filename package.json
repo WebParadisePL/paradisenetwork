@@ -1,0 +1,35 @@
+{
+	"name": "paradisenetwork",
+	"version": "1.0.0",
+	"description": "The official network of WebParadise Pvt. Ltd.",
+	"main": "server.js",
+	"scripts": {
+		"main": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/WebParadisePL/paradisenetwork"
+	},
+	"author": "WebParadise Pvt. Ltd. <business@webparadise.ml> (http://webparadise.ml)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/WebParadisePL/paradisenetwork/issues"
+	},
+	"dependencies": {
+		"express": "4.16.1",
+		"body-parser": "1.18.2",
+		"pug": "2.0.0-rc.4",
+		"cookie-parser": "1.4.3",
+		"mongoose": "4.12.0",
+		"bcrypt-nodejs": "0.0.3",
+		"connect-flash": "0.1.1",
+		"connect-mongo": "2.0.0",
+		"express-session": "1.15.6",
+		"passport": "0.4.0",
+		"passport-local": "1.0.0",
+		"passport-twitter": "1.0.4"
+	},
+	"engines": {
+		"node": "8.6.0"
+	}
+}

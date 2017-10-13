@@ -1,0 +1,16 @@
+{
+	"db": {
+		"username": "heroku_81mvf2ml",
+		"password": "2f1s38mt44vfcgknlt6mtpu3j7",
+		"host": "ds113785.mlab.com",
+		"port": "13785",
+		"name": "heroku_81mvf2ml"
+	},
+	"sessionSecret": "myvoiceispasswordverifyme",
+	"twitter": {
+		"consumerKey": "8zjKETT5OKMuJUgcYeyhLkcSB",
+		"consumerSecret": "eiwGYDaDeFqkZr2A1NSRg20hKnMbCmutOhI0X7fEV2AFcKw892",
+		"callbackURL": "/oauth/twitter/callback",
+		"profileFields": ["id", "displayName", "photos"]
+	}
+}
